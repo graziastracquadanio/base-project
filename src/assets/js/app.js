@@ -1,5 +1,5 @@
 /* App Module */
-var app = angular.module('base-project');
+var app = angular.module('baseproject', []);
 
 app.run(function ($rootScope) {
 	
