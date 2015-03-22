@@ -1,0 +1,12 @@
+# WORKSPACE FILES
+.DS_Store
+/nbproject/private/
+*.sublime-project
+*.sublime-workspace
+*.bat
+nbproject/
+npm-debug.log
+
+# VENDORS
+node_modules/
+bower_components/
