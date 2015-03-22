@@ -13,7 +13,8 @@ module.exports = function (grunt) {
 			// JSPLUGIN
 			jsplugins: {
 				src: [
-					'bower_components/angular/angular.js'
+					'bower_components/angular/angular.js',
+					'bower_components/angular-route/angular-route.js'
 				],
 				dest: 'dist/assets/js/plugins.js'
 			},
